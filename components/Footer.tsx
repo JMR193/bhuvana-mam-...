@@ -10,6 +10,9 @@ const Footer: React.FC = () => {
       <p className="text-sm text-gray-500 mt-2">
         This page was built with gratitude and code.
       </p>
+      <p className="text-sm text-gray-500 mt-2">
+        On behalf of JMR
+      </p>
     </footer>
   );
 };
